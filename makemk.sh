@@ -8,7 +8,7 @@
 
 # change these defines as appropriate here or in mkconfig
 # ROOT should be the root of the Inferno tree
-ROOT=/usr/inferno
+ROOT=/Users/skilbjo/dev/inferno-os
 SYSTARG=Inferno
 OBJTYPE=arm
 SYSTYPE=posix
